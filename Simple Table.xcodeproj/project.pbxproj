@@ -21,6 +21,7 @@
 		3F95EEDC184BAD4600C176FD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F95EEBE184BAD4600C176FD /* UIKit.framework */; };
 		3F95EEE4184BAD4600C176FD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3F95EEE2184BAD4600C176FD /* InfoPlist.strings */; };
 		3F95EEE6184BAD4600C176FD /* Simple_TableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F95EEE5184BAD4600C176FD /* Simple_TableTests.m */; };
+		3F95EEF0184BC0DE00C176FD /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F95EEEF184BC0DE00C176FD /* star.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3F95EEE1184BAD4600C176FD /* Simple TableTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Simple TableTests-Info.plist"; sourceTree = "<group>"; };
 		3F95EEE3184BAD4600C176FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3F95EEE5184BAD4600C176FD /* Simple_TableTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Simple_TableTests.m; sourceTree = "<group>"; };
+		3F95EEEF184BC0DE00C176FD /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		3F95EEC1184BAD4600C176FD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3F95EEEF184BC0DE00C176FD /* star.png */,
 				3F95EEC2184BAD4600C176FD /* Simple Table-Info.plist */,
 				3F95EEC3184BAD4600C176FD /* InfoPlist.strings */,
 				3F95EEC6184BAD4600C176FD /* main.m */,
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F95EED3184BAD4600C176FD /* Images.xcassets in Resources */,
+				3F95EEF0184BC0DE00C176FD /* star.png in Resources */,
 				3F95EEC5184BAD4600C176FD /* InfoPlist.strings in Resources */,
 				3F95EECE184BAD4600C176FD /* Main.storyboard in Resources */,
 			);
